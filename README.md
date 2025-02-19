@@ -8,6 +8,12 @@ A simple Employee Management System built with **React.js**. This project allows
 - View the list of employees.
 - Data persistence using browser **LocalStorage**.
 
+## Local Data
+**employees Deatil**: email: "employee1@example.com",
+                      password: "123",
+**admin Detail**: email: "admin@example.com",
+                  password: "123"
+
 ## Technologies Used
 
 - **React.js**: Frontend library for building user interfaces.
